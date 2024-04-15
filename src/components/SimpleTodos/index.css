@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.main-container {
+  background-color: #ffc2a0;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.todo-container {
+  background-color: #ffffff;
+  background-size: cover;
+  height: 90vh;
+  width: 90%;
+  border-radius: 15px;
+  text-align: center;
+  padding: 20px;
+}
+.heading {
+  color: #ff8542;
+  font-family: 'Roboto';
+  font-size: 40px;
+  margin-bottom: 20px;
+}
